@@ -1,1 +1,1 @@
-preuba
+Instalación de Xammp
